@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Kampus.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/GedungBiru.unity
+    guid: c954fa80f346be843bcbdda3bd1b6bd3
+  - enabled: 1
+    path: Assets/Scenes/GedungBaru.unity
+    guid: 7ea7bb7d19dcec6429c2a012e08ca212
+  - enabled: 1
+    path: Assets/Scenes/AudioVisual.unity
+    guid: 479b4a8e88c6c6b44824b5a55fd4f356
+  - enabled: 1
+    path: Assets/Scenes/KelasGB.unity
+    guid: 6ef7424198b9bd1468ada5816cd432b8
+  - enabled: 1
+    path: Assets/Scenes/Mesjid.unity
+    guid: 90b945e1ac0d77d4db130a39541c7326
+  - enabled: 1
+    path: Assets/Scenes/LabFoto.unity
+    guid: 5012575687704d84aa8fa0788cd97a81
+  - enabled: 1
+    path: Assets/Scenes/LabAudio.unity
+    guid: 8b0b38604a2bdf745bd8cca5f17a5530
+  - enabled: 1
+    path: Assets/Scenes/Labkom.unity
+    guid: a1c9469044c363e46a0893b4d160eb04
+  - enabled: 1
+    path: Assets/Scenes/LabGame.unity
+    guid: 7dbde21d6d97f544fa6d60cf078eac3c
+  - enabled: 1
+    path: Assets/Scenes/Perpustakaan.unity
+    guid: 758738f78f10f474a8d216cebf91c099
+  - enabled: 1
+    path: Assets/Scenes/Akademik.unity
+    guid: 87883072f73dd4f4bbeeedb788914fd6
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 18e89ad3146267a4a87cac721d527752, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2e05861145f7f8e4e88f13a9eefcc40a, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 6c4f4ab68eb32044aafdc72d793daaad, type: 2}
+    WebXR.Settings: {fileID: 11400000, guid: 6fe184c217a80ba448fbe51eed7432a7, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 290db6daf37d3e5478cbcf3fc157c6ee, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: f8a442de0c8906f4d9c00184993fc289, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 56a98106ce58f09459a9990007b50acb, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 43e231e21fbbf574a9be9d5f1a44b151, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 68b8576ba099b294d90889251a4a15ba, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8b07288ba6be24e448175f41e3629239, type: 2}
